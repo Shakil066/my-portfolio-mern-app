@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "project_id": 6,
+        "title": "Unicorn Company",
+        "photo": "https://github.com/Shakil066/Power-BI-/blob/main/Unicorn%20Company%2002.PNG",
+        "github_url": "https://github.com/Shakil066/Power-BI-/blob/main/Unicorn_Companies.pbix",
+        "details": [
+            {
+                "heading": "Here Number of Continents is 6 that’s are Asia, Africa, South America, North America, Europe, and Oceania. The total Country is 46 and the total City is 257. The number of total Companies is 1075. The total Valuation of this 1075 Company is 3.71k Billion Dollars. Besides, all 1075 companies are divided by just 15 Industries.",
+                "items": []
+            },
+            {
+                "heading": "North America tops the list with a total valuation of $2,032 billion spread across 589 companies, demonstrating its strong presence in the startup ecosystem. Asia follows closely with $1,067 billion in valuation among 310 companies, while Europe lags behind with $503 billion across 143 companies. Oceania and South America have smaller valuations of $56 billion and $48 billion, respectively, with fewer companies. Africa's startup scene is budding with a total valuation of $5 billion across 3 companies.",
+                "items": []
+            },
+            {
+                "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
+                "items": [
+                    "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
+                    "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "project_id": 4,
+        "title": "Unicorn Company",
+        "photo": "https://github.com/Shakil066/Power-BI-/blob/main/Unicorn%20Company%2002.PNG",
+        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
+        "details": [
+            {
+                "heading": "Here Number of Continents is 6 that’s are Asia, Africa, South America, North America, Europe, and Oceania. The total Country is 46 and the total City is 257. The number of total Companies is 1075. The total Valuation of this 1075 Company is 3.71k Billion Dollars. Besides, all 1075 companies are divided by just 15 Industries.",
+                "items": []
+            },
+            {
+                "heading": "North America tops the list with a total valuation of $2,032 billion spread across 589 companies, demonstrating its strong presence in the startup ecosystem. Asia follows closely with $1,067 billion in valuation among 310 companies, while Europe lags behind with $503 billion across 143 companies. Oceania and South America have smaller valuations of $56 billion and $48 billion, respectively, with fewer companies. Africa's startup scene is budding with a total valuation of $5 billion across 3 companies.",
+                "items": []
+            },
+            {
+                "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
+                "items": [
+                    "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
+                    "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
+                ]
+            }
+        ]
+    }
+]

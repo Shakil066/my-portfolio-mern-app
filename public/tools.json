@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "SQL",
+        "photo": "https://ashraf-sakil.imgbb.com/"
+    },
+    {
+        "id": 2,
+        "name": "Excel",
+        "photo": "https://ashraf-sakil.imgbb.com/"
+    },
+    {
+        "id": 3,
+        "name": "Tableau",
+        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+    },
+    {
+        "id": 4,
+        "name": "Python",
+        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+    },
+    {
+        "id": 5,
+        "name": "Looker Studio",
+        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+    },
+    {
+        "id": 6,
+        "name": "Power BI",
+        "photo": "https://ashraf-sakil.imgbb.com/"
+    }
+]
